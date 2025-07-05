@@ -1,0 +1,9 @@
+{
+    "name": "Osama",
+    "age": 20,
+    "courses": [
+        "Math",
+        "Science",
+        "English"
+    ]
+}
